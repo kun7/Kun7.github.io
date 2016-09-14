@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+<h1 class="titleme">Materi, konsep, kegiatan, dan bagian apa saja
+             yang berjalan baik? Keberhasilan dan masalah apa yang kamu hadapi?
+           </h1>
+
+           <p>
+               Materi HTML
+           <p>
+
+           <hr class="soften">
+
+           <h1 class="titleme">Hal apa saja yang terpikirkan atau tanyakan saat coding? Referensi lain apa saja yang membantumu menjawabnya?</h1>
+
+           <p>
+               Berusaha untuk tidak banyak berfikir terlalu ribet, yang penting semuanya harus direncanakan,
+               itu cukup membantu saya karena baru sempat mengerjakan 2 hari terakhir. Referensi...banyak sekali referensi yang saya pakai
+               baik stackoverflow untuk banyak urusan mengenai git dan github. w3school dan codepen untuk HTML dan CSS.
+           <p>
+
+             <hr class="soften">
+
+             <h1 class="titleme">Apakah kamu belajar skill, tips, dan trik baru? Apa saja</h1>
+
+             <p>
+                 Banyak sekali belajar di phase-0 week-1 ini, belajar OOP, array, fungsi loop, while, for dsb
+
+               <hr class="soften">
+
+               <h1 class="titleme">Seberapa kamu yakin dan lancar dengan berbagai Objectives yang ada?</h1>
+
+               <p>
+                   Keyakinan saya saat ini sudah ditaraf 85%, dimana mungkin ada sedikit
+                   yang belum terlalu dalam belajarnya namun yang pasti saya akan senantiasa
+                   belajar setiap harinya demi kesuksesan saya dikemudian hari
+               <p>
+
+                 <hr class="soften">
+
+                 <h1 class="titleme">Kegiatan apa saja yang kamu suka dan nikmati serta yang hindari dan bosenin?</h1>
+
+                 <p>
+                     yang saya nikmati adalah membaca devdocs, w3school
+<p>
+</body>
+</html>
