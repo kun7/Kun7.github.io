@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+<h1 class="titleme">Apa itu Git</h1>
+            <img src="images/git.png" class="img-responsive center-block newspic">
+
+            <p>
+              Jadi, sebenarnya apa yang dimaksud dengan Git? Ini adalah bagian
+              penting untuk dipahami, karena jika anda memahami apa itu Git dan
+              cara kerjanya, maka dapat dipastikan anda dapat menggunakan Git
+              secara efektif dengan mudah. Selama mempelajari Git, cobalah untuk
+              melupakan VCS lain yang mungkin telah anda kenal sebelumnya,
+              misalnya Subversion dan Perforce. Git sangat berbeda dengan
+              sistem-sistem tersebut dalam hal menyimpan dan memperlakukan
+              informasi yang digunakan, walaupun antar-muka penggunanya hampir mirip.
+              Dengan memahami perbedaan tersebut diharapkan dapat membantu anda
+              menghindari kebingungan saat menggunakan Git.
+            </p>
+
+            <div class="col-sm-12 text-center title">
+<h2>Langsung saja ditonton video tutorialnya, biar lebih ngerti</h2>
+<iframe src="https://www.youtube.com/embed/_Jmkvv_nKTE" frameborder="0" allowfullscreen></iframe>
+</body>
+</html>
